@@ -25,6 +25,3 @@ pip install pandas sklearn nmslib ftfy
 
 ## Example
 Ideal for financial institutions aiming to consolidate customer or transaction data across multiple databases. See the  `create_dealscan_with_compustat_callreport_tfidf_meausres.py` for example use.
-
-## License
-Specify the license under which this script is released, ensuring users know their rights for using and modifying the software.
